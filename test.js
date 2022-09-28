@@ -1,0 +1,1 @@
+window.open('http://www.sistemart.com/submit?url=%27+encodeURIComponent(location.href)+%27&title=%27+encodeURIComponent(document.title))
